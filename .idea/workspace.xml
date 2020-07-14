@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab50559a-b093-4011-a6f2-5c09f1d86572" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/controllers/topic.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/topic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/topic.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/topic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d2NDn1Zg8DT92MxRyCA6wrMt4o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node_modules" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab50559a-b093-4011-a6f2-5c09f1d86572" name="Default Changelist" comment="" />
+      <created>1591619110718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591619110718</updated>
+      <workItem from="1591619115618" duration="2495000" />
+      <workItem from="1591636299496" duration="3595000" />
+      <workItem from="1591682567728" duration="4673000" />
+      <workItem from="1591689035810" duration="11000" />
+      <workItem from="1591781141840" duration="3368000" />
+      <workItem from="1591812818230" duration="510000" />
+      <workItem from="1591865243982" duration="1264000" />
+      <workItem from="1591959954206" duration="6653000" />
+      <workItem from="1591981426983" duration="13852000" />
+      <workItem from="1592049544032" duration="5580000" />
+      <workItem from="1592069073689" duration="11481000" />
+      <workItem from="1592135181915" duration="872000" />
+      <workItem from="1592204912372" duration="653000" />
+      <workItem from="1592568216858" duration="4012000" />
+      <workItem from="1593087557860" duration="1555000" />
+      <workItem from="1593537349776" duration="1816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591995305444">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1591995305444" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591687082955">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1591687082955" />
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1591621625995">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591621625995" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1591621625991">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591621625991" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1591621625990">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591621625990" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1591621625994">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591621625994" />
+    <state x="167" y="125" width="1099" height="543" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1592073562168">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="167" y="125" width="1099" height="543" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/67.27.1299.741@67.27.1299.741" timestamp="1592073562168" />
+    <state x="167" y="125" width="1099" height="543" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592073562169">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="167" y="125" width="1099" height="543" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1299.741@67.27.1299.741" timestamp="1592073562169" />
+  </component>
+</project>
